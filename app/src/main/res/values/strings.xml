@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BmgApp</string>
+    <string name="need_a_new_account">Need a New Account ?</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="log_out">Log Out</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="all_user">All User</string>
+    <string name="login_to_account">LogIn To Your Account</string>
+    <string name="login">LogIn</string>
+    <string name="login_to_existing_account">Login to Account</string>
+    <string name="create_a_new_account">Create a New Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_status">Change Status</string>
+    <string name="display_name">Display Name</string>
+    <string name="hi_i_m_using_bmg_app">Hi! I m Using Bmg App</string>
+    <string name="change_picture">Change Picture</string>
+
+</resources>
